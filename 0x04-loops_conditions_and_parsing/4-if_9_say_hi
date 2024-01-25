@@ -2,11 +2,11 @@
 # this script print "Best School" and "Hi" 10 times
 
 a=1
-info="Best School"
+msg="Best School"
 while [ $a -le 10 ]
 do
-	echo "$info"
-	if [ $n -eq 9 ]
+	echo "$msg"
+	if [ $a -eq 9 ]
 	then
 		echo "Hi"
 	fi
