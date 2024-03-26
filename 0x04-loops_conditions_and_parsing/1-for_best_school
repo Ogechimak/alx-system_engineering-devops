@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 i
+=======
+#!/usr/bin/env bash
+#this script will display "Best School"10 times
+
+information="Best School"
+for ((i=0; i<10; i++))
+do
+	echo "$information"
+done
+>>>>>>> 62b455109139f60c65b215ca22cebc4cd5be7970

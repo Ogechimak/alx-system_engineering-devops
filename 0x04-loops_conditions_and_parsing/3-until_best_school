@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#this script displays Best School 10 times
+
+info="Best School"
+n=1
+
+until [ $n -gt 10 ]
+do
+    echo "$info"
+    (( n++ ))
+done
