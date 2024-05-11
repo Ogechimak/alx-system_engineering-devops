@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''This code contains functions that queries the Reddit API.
+'''Functions that queries the Reddit API.
 '''
 from requests import get
 
