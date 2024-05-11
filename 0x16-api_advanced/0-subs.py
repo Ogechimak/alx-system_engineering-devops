@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-function that qqueries the Reddit API
+function that queries the Reddit API
 """
 
 from requests import get
